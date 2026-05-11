@@ -1,7 +1,7 @@
 const https = require('https');
 
 const DL_USERNAME = 'PT296867497';
-const DL_PASSWORD = '3ntM09lv1St4';
+const DL_PASSWORD = 'j4Lv1OeFTv8';
 const DL_FEED_XML = 'https://store.dreamlove.es/dyndata/exportaciones/csvzip/catalog_1_50_125_2_eb10a792c0336bc695e2b0ec29d88402_xml_plain.xml';
 const DL_FEED_CSV = 'https://store.dreamlove.es/dyndata/exportaciones/csvzip/catalog_1_50_125_2_eb10a792c0336bc695e2b0ec29d88402_csv_plain.csv';
 const SHOPIFY_STORE = 'salvacasal.myshopify.com';
